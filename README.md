@@ -4,6 +4,8 @@
 <hr>
 
 This began as a sort of hardware version of [BriadLab](https://github.com/isaac-art/BraidLab) but is becoming some kind of cellular moving image organism or distributed display thing.
+Influenced in some ways by [T2Tile](https://www.youtube.com/channel/UC1M91QuLZfCzHjBMEKvIc-A) but doing different less ambitious things.
+
 
 - PCB arrives 29/01/19
 
