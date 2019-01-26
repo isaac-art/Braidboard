@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-01-20T17:40:16Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.2.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "braidboardsmd"
+        },
+        "Owner": "Isaac Clarke <ikeyjoe3@googlemail.com>",
+        "Size": {
+            "X": 40,
+            "Y": 12
+        }
+    }
+}
