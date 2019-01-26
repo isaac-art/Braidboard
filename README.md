@@ -18,7 +18,7 @@ This began as a sort of hardware version of [BriadLab](https://github.com/isaac-
 <hr>
 
 ### Hardware
-* pcb [front]() and [back]()
+* pcb 0119b[front](https://github.com/isaac-art/Braidboard/blob/master/BOARD/0119b/braidboard_front.png) and back [back](https://github.com/isaac-art/Braidboard/blob/master/BOARD/0119b/braidboard_back.png)
 * attiny84 (0119b using SOIC footprint) - [datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/8006S.pdf)
 * OLED 128x32 I2C - the four pin type you find on [ebay](https://www.ebay.co.uk/itm/IIC-I2C-0-91-128x32-white-OLED-LCD-Display-Module-3-3v-5v-For-Arduino-PIC-HC/173751114146?hash=item28745f99a2:g:lKYAAOSwu05bQsUy:rk:1:pf:1&frcectupt=true)
 * a bunch of breadboard spaced header pins & sockets
