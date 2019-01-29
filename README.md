@@ -12,7 +12,7 @@ Influenced in some ways by [T2Tile](https://www.youtube.com/channel/UC1M91QuLZfC
 
 - [29/01/19] Aim to get some coding done this weekend 02/02/19.
 
-![assembled img](https://raw.githubusercontent.com/isaac-art/Braidboard/master/PHOTOS/020119_250119/IMG_2944.jpg)
+![assembled img](https://raw.githubusercontent.com/isaac-art/Braidboard/master/PHOTOS/260119_290119/IMG_2944.jpg)
 
 - [29/01/19] PCB has arrived! assembled 18 tiles
 
