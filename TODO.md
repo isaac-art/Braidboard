@@ -2,7 +2,7 @@
 <hr>
 
 ### General
-* [ ] on PCB 0119b arrived -> assemble
+* [x] on PCB 0119b arrived -> assemble
 * [ ] create a font for the crossing types
 * [ ] create bitmaps for the crossing types
 * [ ] compare font & bitmap
@@ -17,13 +17,15 @@
 
 ### Power
 * [ ] what is the minimum power needed for n tiles
-* [ ] test with coin cells
+* [x] test with coin cells
 * [ ] test with solar
 
 <hr> 
 
 ### pcb revision
-* [ ] signal clarity
+* [ ] magnetic connectors
+* [ ] talk to neighbours to pass pixels?
+* [ ] signal clarity checks
 * [ ] board flexibility
-* [ ] how well do they tile
+* [x] how well do they tile
 * [ ] mounting solutions? can i fit screw holes

@@ -6,18 +6,29 @@
 This began as a sort of hardware version of [BriadLab](https://github.com/isaac-art/BraidLab) but is becoming some kind of cellular moving image organism or distributed display thing.
 Influenced in some ways by [T2Tile](https://www.youtube.com/channel/UC1M91QuLZfCzHjBMEKvIc-A) but doing different less ambitious things.
 
+<hr>
 
-- PCB arrives 29/01/19
+### Activity
 
-![plan](https://raw.githubusercontent.com/isaac-art/Braidboard/master/PHOTOS/020119_250119/Image.jpeg)
+- [29/01/19] Aim to get some coding done this weekend 02/02/19.
+
+![assembled img](https://raw.githubusercontent.com/isaac-art/Braidboard/master/PHOTOS/020119_250119/IMG_2944.jpg)
+
+- [29/01/19] PCB has arrived! assembled 18 tiles
+
+- [26/01/19] PCB arrives on 29/01/19
+
+![plan img](https://raw.githubusercontent.com/isaac-art/Braidboard/master/PHOTOS/020119_250119/Image.jpeg)
 
 <hr>
+
 
 ### Requirements
 * using the convenience of arduino, as i can use the arduino as isp to program the attinys
 * for drawing to the screen i am using [datacute's Tiny4kOLED Library](https://github.com/datacute/Tiny4kOLED/) but i might strip it down some more if i end up needing to
 
 <hr>
+
 
 ### Hardware
 * pcb 0119b[front](https://github.com/isaac-art/Braidboard/blob/master/BOARD/0119b/braidboard_front.png) and back [back](https://github.com/isaac-art/Braidboard/blob/master/BOARD/0119b/braidboard_back.png)
