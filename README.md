@@ -61,7 +61,7 @@ Influenced in some ways by [T2Tile](https://www.youtube.com/channel/UC1M91QuLZfC
 | Item | ≈price | link |
 |------|--------|------|
 | attiny84 soic | ≈£0.648 | [mouser](https://www.mouser.co.uk/_/?Keyword=attiny84&FS=True) |
-| PCB: 12mm x 40mm 2 layer  lead-free | ≈£1.50 (@x10) | [pcbway](https://www.pcbway.com/) |
+| PCB: 12mm x 40mm 2 layer  lead-free | ≈£1.50 (@x10) | [pcbway](https://www.pcbway.com/project/shareproject/Braidboard_0119b.html) |
 | 14 x male header 2.54 mm | ≈£0.70 | [amazon](https://www.amazon.co.uk/Pack-Single-2-54-Header-Connector/dp/B06XR8CV8P/ref=pd_sbs_23_3?_encoding=UTF8&pd_rd_i=B06XR8CV8P&pd_rd_r=c2677cbc-2190-11e9-9f02-2dcfb0cd6a52&pd_rd_w=iPidB&pd_rd_wg=ruh13&pf_rd_p=18edf98b-139a-41ee-bb40-d725dd59d1d3&pf_rd_r=H0YAFN7391P4WH151Q0J&psc=1&refRID=H0YAFN7391P4WH151Q0J) |
 | Board Total | ≈£2.85 | 👍 |
 
