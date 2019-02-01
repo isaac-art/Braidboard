@@ -10,6 +10,10 @@ Influenced in some ways by [T2Tile](https://www.youtube.com/channel/UC1M91QuLZfC
 
 ### Activity
 
+- [01/02/19] simple version running, 4 possible states, inherit from parents and pass to child. Next try drawing the knot crossings instead of numbers.
+
+![first tests](https://raw.githubusercontent.com/isaac-art/Braidboard/master/PHOTOS/300119_010219/marker.jpg)
+
 - [29/01/19] Aim to get some coding done this weekend 02/02/19.
 
 ![assembled img](https://raw.githubusercontent.com/isaac-art/Braidboard/master/PHOTOS/260119_290119/IMG_2956.jpg)

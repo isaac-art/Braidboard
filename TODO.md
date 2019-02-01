@@ -7,9 +7,9 @@
 * [ ] create bitmaps for the crossing types
 * [ ] compare font & bitmap
 * [ ] write the code to display the crossing on a tile
-* [ ] write the code to read input pins and change crossing in response
-* [ ] write the code to pass info to output pins
-* [ ] hook a few up see how they go
+* [x] write the code to read input pins and change crossing in response
+* [x] write the code to pass info to output pins
+* [x] hook a few up see how they go
 
 * [ ] DO SOMETHING INTERESTING WITH IT
 
