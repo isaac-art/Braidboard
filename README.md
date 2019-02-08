@@ -16,7 +16,7 @@ Playing with pattern swatches as cells.
 
 - [08/02/19] playing around with images, thinking of having little pattern swatches for the screens, will need to make some bitmaps/font. they can then infect each other flipping bits of the weaves in each other? 
 
-![drawings](https://raw.githubusercontent.com/isaac-art/Braidboard/master/PHOTOS/020219_080219/marker.jpg)
+![drawings](https://raw.githubusercontent.com/isaac-art/Braidboard/master/SKETCHBOOK/020219_080219/marker.jpg)
 
 <hr>
 
