@@ -6,19 +6,33 @@
 This began as a sort of hardware version of [BriadLab](https://github.com/isaac-art/BraidLab) but is becoming some kind of cellular moving image organism or distributed display thing.
 Influenced in some ways by [T2Tile](https://www.youtube.com/channel/UC1M91QuLZfCzHjBMEKvIc-A) but doing different less ambitious things.
 
+Playing with pattern swatches as cells.
+
 <hr>
 
 ### Activity
 
+-[08/02/19] plan for the next week is to work on a font for drawing with. a set of tiles that can connect into different patterns.
+
+- [08/02/19] playing around with images, thinking of having little pattern swatches for the screens, will need to make some bitmaps/font. they can then infect each other flipping bits of the weaves in each other? 
+
+![drawings](https://raw.githubusercontent.com/isaac-art/Braidboard/master/PHOTOS/020219_080219/marker.jpg)
+
+<hr>
+
 - [01/02/19] simple version running, 4 possible states, inherit from parents and pass to child. Next try drawing the knot crossings instead of numbers.
 
 ![first tests](https://raw.githubusercontent.com/isaac-art/Braidboard/master/PHOTOS/300119_010219/marker.jpg)
+
+<hr>
 
 - [29/01/19] Aim to get some coding done this weekend 02/02/19.
 
 ![assembled img](https://raw.githubusercontent.com/isaac-art/Braidboard/master/PHOTOS/260119_290119/IMG_2956.jpg)
 
 - [29/01/19] PCB has arrived! assembled 18 tiles
+
+<hr>
 
 - [26/01/19] PCB arrives on 29/01/19
 
@@ -39,7 +53,7 @@ Influenced in some ways by [T2Tile](https://www.youtube.com/channel/UC1M91QuLZfC
 * attiny84 (0119b using SOIC footprint) - [datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/8006S.pdf)
 * OLED 128x32 I2C - the four pin type you find on [ebay](https://www.ebay.co.uk/itm/IIC-I2C-0-91-128x32-white-OLED-LCD-Display-Module-3-3v-5v-For-Arduino-PIC-HC/173751114146?hash=item28745f99a2:g:lKYAAOSwu05bQsUy:rk:1:pf:1&frcectupt=true)
 * a bunch of breadboard spaced header pins & sockets
-* power from a socket, or can use CR2025 coin cells, i'm gonna try get it hooked to a solar panel
+* power from a socket, or can use coin cells, i'm gonna try get it hooked to a solar panel
 * i am avoiding making any enclosures at the moment
 
 <hr>
