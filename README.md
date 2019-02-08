@@ -12,7 +12,7 @@ Playing with pattern swatches as cells.
 
 ### Activity
 
--[08/02/19] plan for the next week is to work on a font for drawing with. a set of tiles that can connect into different patterns.
+- [08/02/19] plan for the next week is to work on a font for drawing with. a set of tiles that can connect into different patterns.
 
 - [08/02/19] playing around with images, thinking of having little pattern swatches for the screens, will need to make some bitmaps/font. they can then infect each other flipping bits of the weaves in each other? 
 
