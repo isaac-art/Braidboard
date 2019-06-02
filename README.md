@@ -12,13 +12,17 @@ This began as a sort of hardware version of [BriadLab](https://github.com/isaac-
 - [02/06/19] Long break, but been thinking though making a simulator to get a better idea of how this all works. I need more memory in the boards, swapping between frame buffers doesnt allow enough room.
 I'm going to sketchout some plans as to what the simulator will look like, but i think i will call it:
 
+
+```
    ______      ___           __   ____                    __
   / __(_)_ _  / _ )_______ _(_)__/ / /  ___  ___ ________/ /
  _\ \/ /  ' \/ _  / __/ _ `/ / _  / _ \/ _ \/ _ `/ __/ _  / 
 /___/_/_/_/_/____/_/  \_,_/_/\_,_/_.__/\___/\_,_/_/  \_,_/  
 
 
-![classes](https://raw.githubusercontent.com/isaac-art/Briadboard/master/SKETCHBOOK/020619/braidboard-update.jpg)
+```
+
+![classes](https://raw.githubusercontent.com/isaac-art/Braidboard/master/SKETCHBOOK/020619/braidboard-update.jpg)
 
 - [08/02/19] plan for the next week is to work on a font for drawing with. a set of tiles that can connect into different patterns.
 
